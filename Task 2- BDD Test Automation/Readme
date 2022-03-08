@@ -1,0 +1,12 @@
+There are 2 scenarios. The first is the login scenario. the second is the search scenario in a foreign language. In the first scenario, the smooth connection to the page is checked. In the second scenario, when a search is made in a foreign language other than English, results are expected.
+
+Installation
+* Java
+* Maven
+* Intellij Idea
+
+Intellij Idea Plugins
+* Maven
+* Cucumber
+* Install Java and set path.
+* Install Maven and set path.
